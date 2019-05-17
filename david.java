@@ -7,7 +7,7 @@ public class david{
             for (int h = 0; h < i*2+1; h++){
                 System.out.print("A");
             }
-            System.out.println();
+            System.out.println(D);
         }
     }
 }
